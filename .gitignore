@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+firmware/esp32-s3/.pio/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Calibration output (machine-specific)
+firmware/raspberry-pi/calibration.txt
+
+# Secrets (never commit)
+*.env
+.env*
+secrets.py
+credentials.json
+
+# Data recordings
+data/
+recordings/
+*.csv
+
+# Compiled docs
+docs/_build/
