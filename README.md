@@ -18,6 +18,22 @@
 
 ---
 
+## Hardware Photos
+
+<p align="center">
+  <img src="media/device_assembled_display.jpg" alt="TrisEase device assembled with OLED display showing live jaw distance reading" width="480"/>
+</p>
+
+<p align="center">
+  <img src="media/hardware_metal_frame.jpg" alt="TrisEase stamped stainless steel frame with linkage mechanism" width="480"/>
+</p>
+
+<p align="center">
+  <img src="media/device_internals.jpg" alt="TrisEase internals: Raspberry Pi, HX711 ADC, sensor wiring on PCB" width="480"/>
+</p>
+
+---
+
 ## What is TrisEase?
 
 Trismus is a jaw-opening restriction affecting patients after head-and-neck cancer treatment, facial trauma, or radiation therapy. Current rehabilitation relies on manual exercises with no objective measurement.
